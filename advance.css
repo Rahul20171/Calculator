@@ -1,0 +1,31 @@
+table{
+    /* width: 50%; */
+    margin: 20px auto;
+    border: 1px solid black;
+    height: 300px;
+    border-radius: 20px;
+    border-radius: 20px;
+}
+table input[type="text"]{
+   width: 98%;
+   height: 40px;
+   text-align: right;
+   font-size: 24px;
+   background-color: black;
+   color: gainsboro;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background-color: crimson;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn:hover{
+    border: 5px solid #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #000;
+}
+
